@@ -1,4 +1,6 @@
 # Turn one idea into a decision with explicit assumptions and stop conditions.
+
+*Part of the [Vivaminima tools](https://github.com/vivaminima) for Claude Code users.*
 A Claude Code skill and a small checker: eight sections that may not be skipped or reordered, every number tagged as observed, assumption or to check, and a stop date before the verdict.
 
 ## New to this? Start here
@@ -111,7 +113,10 @@ MIT licence. See CHANGELOG.md.
 ## More from Vivaminima
 
 - **Go/No-Go Verdict Pro ($19)**, the paid edition of this tool, one-time payment on Gumroad: https://vivastory4.gumroad.com/l/go-no-go-verdict-pro
-- **Token Audit Kit ($19)** — see how many tokens your CLAUDE.md and its @imports cost before your first prompt, and a step-by-step guide to split it. Free script: https://github.com/vivaminima/context-file-audit · Paid kit: https://vivaminima.lemonsqueezy.com/checkout/buy/57973270-94ea-4cc7-bcb4-294693714087
+
+  <a href="https://vivastory4.gumroad.com/l/go-no-go-verdict-pro"><img src="https://raw.githubusercontent.com/vivaminima/vivaminima/main/img/go-no-go-verdict-skill.png" width="480" alt="Go/No-Go Verdict Pro"></a>
+
+- **Token Audit Kit ($19)** — see how many tokens your CLAUDE.md and its @imports cost before your first prompt, and a step-by-step guide to split it. Free script: https://github.com/vivaminima/context-file-audit · Paid kit (store): https://vivastory4.gumroad.com
 - Free tools: [skill-audit-kit](https://github.com/vivaminima/skill-audit-kit) · [secret-map](https://github.com/vivaminima/secret-map) · [inbox-ledger](https://github.com/vivaminima/inbox-ledger) · [release-gate](https://github.com/vivaminima/release-gate) · [skill-install-gate](https://github.com/vivaminima/skill-install-gate) · [console-safe](https://github.com/vivaminima/console-safe) · [checklist-stop](https://github.com/vivaminima/checklist-stop) · [handoff-check](https://github.com/vivaminima/handoff-check) · [llm-budget-router-lite](https://github.com/vivaminima/llm-budget-router-lite) · [go-no-go-verdict-skill](https://github.com/vivaminima/go-no-go-verdict-skill) · [ai-company-starter-kit](https://github.com/vivaminima/ai-company-starter-kit) · [beginner-readme-section](https://github.com/vivaminima/beginner-readme-section)
 
 Vivaminima is not affiliated with, endorsed by or sponsored by Anthropic.
