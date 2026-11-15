@@ -1,6 +1,8 @@
 # Turn one idea into a decision with explicit assumptions and stop conditions.
 
 *Part of the [Vivaminima tools](https://github.com/vivaminima) for Claude Code users.*
+
+<img src="https://raw.githubusercontent.com/vivaminima/vivaminima/main/img/run/go-no-go-verdict-skill.png" width="760" alt="go-no-go-verdict-skill: real output of the free version on a made-up sample">
 A Claude Code skill and a small checker: eight sections that may not be skipped or reordered, every number tagged as observed, assumption or to check, and a stop date before the verdict.
 
 ## New to this? Start here
