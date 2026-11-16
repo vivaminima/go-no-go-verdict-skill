@@ -1,0 +1,17 @@
+{
+  "name": "go-no-go-verdict",
+  "description": "Turn one idea into a decision with explicit assumptions and stop conditions. A Claude Code skill and a small checker.",
+  "author": {
+    "name": "Vivaminima",
+    "url": "https://github.com/vivaminima"
+  },
+  "homepage": "https://vivastory4.gumroad.com/l/go-no-go-verdict-pro",
+  "repository": "https://github.com/vivaminima/go-no-go-verdict-skill",
+  "license": "MIT",
+  "keywords": [
+    "claude-code",
+    "claude-skills",
+    "decision-making"
+  ],
+  "skills": "./go-no-go-verdict"
+}
